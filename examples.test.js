@@ -1,6 +1,6 @@
 
 const { expect } = require('@jest/globals')
-const { sum, product } = require('./functions')
+const { sum, product } = require('./examples')
 
 
 // * Addition
